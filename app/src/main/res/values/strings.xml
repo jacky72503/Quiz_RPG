@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QARPG</string>
+
+    <!-- Strings related to login -->
+    <string name="register">註冊</string>
+    <string name="prompt_email">Email</string>
+    <string name="password">密碼</string>
+    <string name="login">登入</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="email">Email</string>
+    <string name="create_account">創建帳號</string>
+    <string name="have_account">已有帳號登入</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+<string name="title_activity_signup">SignupActivity</string>
+</resources>
